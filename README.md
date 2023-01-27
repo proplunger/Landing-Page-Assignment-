@@ -1,6 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://github.com/proplunger/Landing-Page-Assignment-)
   <br />
   <br />
   
